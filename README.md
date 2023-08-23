@@ -47,5 +47,5 @@ Note
 This program is a simplified representation and does not include advanced features like error handling, data persistence, or a graphical user interface.
 ################
 Contributors
-This code was developed by Fiodor Culacovschi.
+This code was developed by Fiodor Culacovschi, Object Oriented Programming COP-3330C.
 
